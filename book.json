@@ -1,0 +1,15 @@
+{
+  "title": "Your Book Title",
+  "description": "A brief description of your book.",
+  "author": "Your Name",
+  "language": "en",
+  "plugins": [],
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "variables": {
+    "productName": "My Amazing App",
+    "version": "1.0.0",
+    "homepage": "https://example.com"
+  }
+}
