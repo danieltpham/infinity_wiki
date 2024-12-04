@@ -14,7 +14,7 @@ layout:
 
 # DCP / DKDM Requirements
 
-Please read **ALL** of the following pages for DCP / DKDM requirements.
+Please read **ALL** of the following 3 pages for DCP / DKDM requirements.
 
 These requirements apply to **BOTH** Feature Content and Trailer Content.
 
