@@ -1,4 +1,4 @@
-# Format
+# DCP Format
 
 | **Feature (FTR)**               |                            |
 | ------------------------------- | -------------------------- |
@@ -11,6 +11,7 @@
 | - Format                        | 2D                         |
 | **Audio**                       |                            |
 | - Configuration                 | 7.1                        |
+| - MnE                           | None                       |
 | **Language & Subtitles**        |                            |
 | - Primary Language              | Vietnamese (VI)            |
 | - Secondary Language (Subtitle) | English (EN)               |
