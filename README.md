@@ -12,9 +12,9 @@ layout:
     visible: false
 ---
 
-# DCP Requirements
+# DCP / DKDM Requirements
 
-Please read **BOTH** of the following pages for DCP requirements.
+Please read **ALL** of the following pages for DCP / DKDM requirements.
 
 These requirements apply to **BOTH** Feature Content and Trailer Content.
 
@@ -28,4 +28,8 @@ If you have any questions, please email [daniel@infinityenm.com](https://app.git
 
 {% content-ref url="distributors/dcp-requirements/delivery-mode.md" %}
 [delivery-mode.md](distributors/dcp-requirements/delivery-mode.md)
+{% endcontent-ref %}
+
+{% content-ref url="distributors/readme/page.md" %}
+[page.md](distributors/readme/page.md)
 {% endcontent-ref %}

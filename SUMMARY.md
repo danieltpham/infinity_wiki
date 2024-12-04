@@ -2,7 +2,8 @@
 
 ## For VN distributors <a href="#distributors" id="distributors"></a>
 
-* [DCP Requirements](README.md)
-  * [Format](distributors/dcp-requirements/format.md)
-  * [Delivery mode](distributors/dcp-requirements/delivery-mode.md)
-* [Page](distributors/page.md)
+* [DCP / DKDM Requirements](README.md)
+  * [DCP Format](distributors/dcp-requirements/format.md)
+  * [DCP Delivery mode](distributors/dcp-requirements/delivery-mode.md)
+  * [DKDM](distributors/readme/page.md)
+  * [Page](distributors/readme/page-1.md)
