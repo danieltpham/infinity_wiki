@@ -1,6 +1,6 @@
 # Requirements
 
-## Film Viet AUS
+## Web Content
 
 
 
@@ -67,5 +67,25 @@
 **Another example**
 
 <img src="../.gitbook/assets/image (5).png" alt="" data-size="original">
+
+</details>
+
+<details>
+
+<summary>SEO Banner</summary>
+
+* W x H : 1640 x 720 px
+* File: JPEG
+* Max size: 800 KB
+* Text: **YES** text
+* Logo: **WITH** logo
+
+**Placement**
+
+![](<../.gitbook/assets/image (6).png>)
+
+**Another example**
+
+![](<../.gitbook/assets/image (7).png>)
 
 </details>
