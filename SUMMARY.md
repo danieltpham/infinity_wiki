@@ -7,6 +7,6 @@
   * [DCP Delivery mode](distributors/dcp/delivery-mode.md)
   * [DKDM](distributors/dcp/dkdm.md)
 
-## Web Assets <a href="#website" id="website"></a>
+## FOR DESIGNERS <a href="#designers" id="designers"></a>
 
-* [Still assets](website/still-assets.md)
+* [Website Assets](designers/website-assets.md)

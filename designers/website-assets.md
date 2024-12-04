@@ -1,4 +1,19 @@
-# Still assets
+---
+icon: globe-pointer
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
+# Website Assets
 
 * Please email 1 ZIP file to [daniel@infinityenm.com](mailto:daniel@infinityenm.com) with the following files.
 * Please double check size + format (all JPEG) + max size.
