@@ -14,7 +14,9 @@ layout:
 
 # DCP Requirements
 
-Please read **BOTH** of the following.
+Please read **BOTH** of the following pages for DCP requirements.
+
+These requirements apply to **BOTH** Feature Content and Trailer Content.
 
 If you have any questions, please email [daniel@infinityenm.com](https://app.gitbook.com/o/Q5P8uLejyAw2ex7zC2og/s/6nsbrzHpS5oxe1uYFoX7/)
 
