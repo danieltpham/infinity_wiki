@@ -1,8 +1,9 @@
-# Requirements
+# Still assets
 
-## Still assets
-
-
+* Please email 1 ZIP file to [daniel@infinityenm.com](mailto:daniel@infinityenm.com) with the following files.
+* Please double check size + format (all JPEG) + max size.
+* Tip: You can use Save for web lower profile (Photoshop) to downsize, or [https://tinyjpg.com/](https://tinyjpg.com/)
+* Tip: To remove / extend background, it's best to use generative fill feature [https://www.adobe.com/au/products/photoshop/generative-fill.html](https://www.adobe.com/au/products/photoshop/generative-fill.html)
 
 <details>
 
@@ -99,5 +100,20 @@
 **Placement**
 
 ![](<../.gitbook/assets/image (8).png>)
+
+</details>
+
+<details>
+
+<summary>Transparent Logo</summary>
+
+* W x H : 1000 x 1000 px (Note: if logo is horizontal, then the logo should be position at the bottom of the 1000 x 1000 canvas, leaving the top part blank)
+* File: JPEG
+* Max size: 500 KB
+* Tip: Best to use editable PSD
+
+**Placement**
+
+![](<../.gitbook/assets/image (9).png>)
 
 </details>

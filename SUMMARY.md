@@ -9,4 +9,4 @@
 
 ## Web Assets <a href="#website" id="website"></a>
 
-* [Requirements](website/requirements.md)
+* [Still assets](website/still-assets.md)
