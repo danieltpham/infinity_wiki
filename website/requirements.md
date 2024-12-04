@@ -1,6 +1,6 @@
 # Requirements
 
-## Web Content
+## Still assets
 
 
 
@@ -24,8 +24,6 @@
 
 </details>
 
-
-
 <details>
 
 <summary>Hero Banner</summary>
@@ -46,8 +44,6 @@
 <img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
 
 </details>
-
-
 
 <details>
 
@@ -87,5 +83,21 @@
 **Another example**
 
 ![](<../.gitbook/assets/image (7).png>)
+
+</details>
+
+<details>
+
+<summary>Square Poster</summary>
+
+* W x H : 1500 x 1500 px
+* File: JPEG
+* Max size: 1MB
+* Text: **YES** text
+* Logo: **WITH** logo
+
+**Placement**
+
+![](<../.gitbook/assets/image (8).png>)
 
 </details>
