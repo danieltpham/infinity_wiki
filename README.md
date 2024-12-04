@@ -1,4 +1,5 @@
 ---
+icon: clapperboard-play
 layout:
   title:
     visible: true
@@ -22,14 +23,14 @@ If you have any questions, please email [daniel@infinityenm.com](https://app.git
 
 
 
-{% content-ref url="distributors/dcp-requirements/format.md" %}
-[format.md](distributors/dcp-requirements/format.md)
+{% content-ref url="distributors/dcp/format.md" %}
+[format.md](distributors/dcp/format.md)
 {% endcontent-ref %}
 
-{% content-ref url="distributors/dcp-requirements/delivery-mode.md" %}
-[delivery-mode.md](distributors/dcp-requirements/delivery-mode.md)
+{% content-ref url="distributors/dcp/delivery-mode.md" %}
+[delivery-mode.md](distributors/dcp/delivery-mode.md)
 {% endcontent-ref %}
 
-{% content-ref url="distributors/readme/page.md" %}
-[page.md](distributors/readme/page.md)
+{% content-ref url="distributors/dcp/dkdm.md" %}
+[dkdm.md](distributors/dcp/dkdm.md)
 {% endcontent-ref %}
