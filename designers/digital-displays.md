@@ -15,7 +15,6 @@ layout:
 
 # Digital Displays
 
-* Please email 1 ZIP file to [daniel@infinityenm.com](mailto:daniel@infinityenm.com) with the following files.
 * Please double check size + format (all JPEG) + max size.
 * Tip: You can use Save for web lower profile (Photoshop) to downsize, or [https://tinyjpg.com/](https://tinyjpg.com/)
 * Tip: To remove / extend background, it's best to use generative fill feature [https://www.adobe.com/au/products/photoshop/generative-fill.html](https://www.adobe.com/au/products/photoshop/generative-fill.html)
