@@ -11,3 +11,4 @@
 
 * [Website Assets](designers/website-assets.md)
 * [Hold Screen DCP](designers/hold-screen-dcp.md)
+* [Logos](designers/logos.md)
