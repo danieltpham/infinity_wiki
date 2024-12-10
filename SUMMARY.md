@@ -10,3 +10,4 @@
 ## FOR DESIGNERS <a href="#designers" id="designers"></a>
 
 * [Website Assets](designers/website-assets.md)
+* [Digital Displays](designers/digital-displays.md)
