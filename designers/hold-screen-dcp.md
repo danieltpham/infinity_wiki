@@ -13,7 +13,7 @@ layout:
     visible: false
 ---
 
-# Digital Displays
+# Hold Screen DCP
 
 * Please double check size + format (all JPEG) + max size.
 * Tip: You can use Save for web lower profile (Photoshop) to downsize, or [https://tinyjpg.com/](https://tinyjpg.com/)
@@ -21,30 +21,10 @@ layout:
 
 <details>
 
-<summary>Official Poster</summary>
-
-* W x H : 1152 x 2048 px
-* File: JPEG
-* Max size: 1 MB
-* Text: With or without is OK
-* Logo: With logo
-
-**Placement**
-
-<img src="../.gitbook/assets/image (4).png" alt="" data-size="original">
-
-<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
-
-
-
-</details>
-
-<details>
-
 <summary>Hold Screen</summary>
 
 * W x H : 1920 x 1080 px
-* File: [DCP .ZIP (See below)](digital-displays.md#quick-guide-creating-a-.zip-dcp-file-from-an-image-with-dcp-o-matic)
+* File: [DCP .ZIP (See below)](hold-screen-dcp.md#quick-guide-creating-a-.zip-dcp-file-from-an-image-with-dcp-o-matic)
 * Text: **YES** text (In cinemas Date)
 * Logo: **WITH** film title logo + VeOnline & Film Viet AUS logo (see examples) + any logos that were already on the original poster file
 * Please upload the ZIP file to [https://drive.google.com/drive/folders/1051UsGsLVVIk\_0r5qeVvuwodddvD-svT?usp=sharing](https://drive.google.com/drive/folders/1051UsGsLVVIk_0r5qeVvuwodddvD-svT?usp=sharing)
@@ -62,8 +42,6 @@ layout:
 ![](<../.gitbook/assets/image (12).png>)
 
 </details>
-
-
 
 ## Quick Guide: Creating a .ZIP DCP File from an Image with DCP-o-matic
 
