@@ -15,10 +15,7 @@ layout:
 
 # OOH Display (print)
 
-* Please email 1 ZIP file to [daniel@infinityenm.com](mailto:daniel@infinityenm.com) with the following files.
-* Please double check size + format (all JPEG) + max size.
-* Tip: You can use Save for web lower profile (Photoshop) to downsize, or [https://tinyjpg.com/](https://tinyjpg.com/)
-* Tip: To remove / extend background, it's best to use generative fill feature [https://www.adobe.com/au/products/photoshop/generative-fill.html](https://www.adobe.com/au/products/photoshop/generative-fill.html)
+* Please upload all the files to the following link, creating a folder for each film: [https://drive.google.com/drive/folders/1BmoL1K6TQ3NcOMw6vJYV6OD43CAxoOFA?usp=sharing](https://drive.google.com/drive/folders/1BmoL1K6TQ3NcOMw6vJYV6OD43CAxoOFA?usp=sharing)
 
 <details>
 
@@ -63,6 +60,8 @@ layout:
 </details>
 
 The following items will not be ordered for all films, but on selected films only. We will notify you when needed. Each banner will have an additional set of sponsor logos, which will be provided for each film as we have a rotating roster of sponsors.
+
+For reference, the link to our preferred printhouse is: [https://www.vividads.com.au/](https://www.vividads.com.au/)
 
 <details>
 
