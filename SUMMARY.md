@@ -10,5 +10,6 @@
 ## FOR DESIGNERS <a href="#designers" id="designers"></a>
 
 * [Website Assets](designers/website-assets.md)
+* [OOH Display (print)](designers/ooh-display-print.md)
 * [Hold Screen DCP](designers/hold-screen-dcp.md)
 * [Logos](designers/logos.md)
