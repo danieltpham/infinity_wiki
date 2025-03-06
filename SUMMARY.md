@@ -13,3 +13,8 @@
 * [OOH Display (print)](designers/ooh-display-print.md)
 * [Hold Screen DCP](designers/hold-screen-dcp.md)
 * [Logos](designers/logos.md)
+
+## Internal
+
+* [Village](internal/village.md)
+* [Page 1](internal/page-1.md)
