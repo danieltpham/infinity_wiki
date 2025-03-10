@@ -32,7 +32,7 @@ layout:
 
 **Placement**
 
-<img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (4) (1) (1).png" alt="" data-size="original">
 
 <img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
 
@@ -57,7 +57,7 @@ layout:
 
 **Another example**
 
-<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -74,11 +74,11 @@ layout:
 
 **Placement**
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 **Another example**
 
-<img src="../.gitbook/assets/image (5) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="original">
 
 </details>
 
@@ -94,11 +94,11 @@ layout:
 
 **Placement**
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 **Another example**
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 </details>
 
@@ -114,7 +114,7 @@ layout:
 
 **Placement**
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 </details>
 

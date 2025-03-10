@@ -64,7 +64,7 @@ What is it: A **Digital Cinema Package (DCP)** is a collection of files, formatt
 
     * Click **File > New**, choose a location, and name your project `HOLDSCREEN_<MOVIENAME>`
 
-    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 3.  **Add Your Image**
 
     * Click **Add files…**
@@ -83,7 +83,7 @@ What is it: A **Digital Cinema Package (DCP)** is a collection of files, formatt
    * Click **OK** to start the DCP creation.
 6. **Locate the DCP Folder**
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 * Once complete, find the DCP folder containing files like `CPL`, `PKL`, `VOLINDEX`, and `.mxf`
 * Right-click the DCP folder.
