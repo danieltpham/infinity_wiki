@@ -34,7 +34,7 @@ layout:
 
 <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="original">
 
-<img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
 
 
 
@@ -53,7 +53,7 @@ layout:
 
 **Placement**
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 **Another example**
 

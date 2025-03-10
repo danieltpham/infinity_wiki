@@ -70,12 +70,12 @@ What is it: A **Digital Cinema Package (DCP)** is a collection of files, formatt
     * Click **Add files…**
     * Select your previously saved JPEG file.
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 4.  **Set DCP Parameters**
 
     * Tab **DCP > Content Type** **> Promo**
 
-    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 5. **Make the DCP**
    * &#x20;<mark style="background-color:green;">**Ctrl / Cmd + M**</mark>&#x20;
    * Confirm the DCP output folder

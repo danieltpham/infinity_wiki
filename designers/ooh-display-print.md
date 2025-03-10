@@ -30,7 +30,7 @@ layout:
 
 **Placement**
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 ![](<../.gitbook/assets/image (3).png>)
 
@@ -51,11 +51,11 @@ layout:
 
 **Placement**
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 **Another example**
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 </details>
 
@@ -101,6 +101,6 @@ For reference, the link to our preferred printhouse is: [https://www.vividads.co
 
 </details>
 
-{% file src="../.gitbook/assets/6000 mm W x 2240 mm H Single Sided (1).pdf" %}
-
 {% file src="../.gitbook/assets/Fabric banner stands.pdf" %}
+
+{% file src="../.gitbook/assets/Fabric Banner Stand Double Sided 850x2000.pdf" %}

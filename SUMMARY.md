@@ -17,4 +17,4 @@
 ## Internal
 
 * [Village](internal/village.md)
-* [Page 1](internal/page-1.md)
+* [Brevo](internal/brevo.md)
