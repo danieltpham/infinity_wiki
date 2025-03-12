@@ -2,10 +2,10 @@
 
 
 
-| **File extension** | .ZIP                                                                                                           |
-| ------------------ | -------------------------------------------------------------------------------------------------------------- |
-| **Storage**        | Google Drive ; Dropbox ; FTP                                                                                   |
-| **Access require** | [rodneyhbolt@gmail.com](mailto:rodneyhbolt@gmail.com), [daniel@infinityenm.com](mailto:daniel@infinityenm.com) |
+| **File extension** | .ZIP                                                                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Storage**        | Google Drive ; Dropbox ; FTP                                                                                                         |
+| **Access require** | [rodneyhbolt@gmail.com](mailto:rodneyhbolt@gmail.com), [daniel@infinityenm.com](mailto:daniel@infinityenm.com), binh@infinityenm.com |
 
 ### Note
 
