@@ -17,7 +17,7 @@
 | - Secondary Language (Subtitle) | English (EN)               |
 | - Subtitle Languages            | Burn-in on the DCP         |
 | **Technical Requirements**      |                            |
-| - Frame Rate                    | 23.976 fps (S-239)         |
+| - Frame Rate                    | 23.976 or 24 fps           |
 | - Resolution                    | 2K                         |
 | - Compliance                    | Either SMPTE or IOP is ok  |
 
