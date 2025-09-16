@@ -1,25 +1,25 @@
 # DCP Format
 
-| **Feature (FTR)**               |                            |
-| ------------------------------- | -------------------------- |
-| - Resolution                    | DCP 2K                     |
-| - Subtitles                     | Burn-in subtitles required |
-| - Format                        | 2D                         |
-| **Trailer (TLR)**               |                            |
-| - Resolution                    | DCP 2K                     |
-| - Subtitles                     | Burn-in subtitles required |
-| - Format                        | 2D                         |
-| **Audio**                       |                            |
-| - Configuration                 | 7.1                        |
-| - MnE                           | None                       |
-| **Language & Subtitles**        |                            |
-| - Primary Language              | Vietnamese (VI)            |
-| - Secondary Language (Subtitle) | English (EN)               |
-| - Subtitle Languages            | Burn-in on the DCP         |
-| **Technical Requirements**      |                            |
-| - Frame Rate                    | 23.976 or 24 fps           |
-| - Resolution                    | 2K                         |
-| - Compliance                    | Either SMPTE or IOP is ok  |
+| **Feature (FTR)**               |                                      |
+| ------------------------------- | ------------------------------------ |
+| - Resolution                    | DCP 2K                               |
+| - Subtitles                     | Do not burn in. Provide EN .SRT file |
+| - Format                        | 2D                                   |
+| **Trailer (TLR)**               |                                      |
+| - Resolution                    | DCP 2K                               |
+| - Subtitles                     | Do not burn in. Provide EN .SRT file |
+| - Format                        | 2D                                   |
+| **Audio**                       |                                      |
+| - Configuration                 | Minimum 5.1 or 7.1                   |
+| - MnE                           | None                                 |
+| **Language & Subtitles**        |                                      |
+| - Primary Language              | Vietnamese (VI)                      |
+| - Secondary Language (Subtitle) | English (EN)                         |
+| - Subtitle Languages            | Do not burn in. Provide EN .SRT file |
+| **Technical Requirements**      |                                      |
+| - Frame Rate                    | 24 fps                               |
+| - Resolution                    | 2K                                   |
+| - Compliance                    | Either SMPTE or IOP is ok            |
 
 ### Examples of CPLs that were accepted
 

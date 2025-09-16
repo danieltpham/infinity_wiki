@@ -1,16 +1,5 @@
 ---
 icon: screen-users
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Hold Screen DCP
