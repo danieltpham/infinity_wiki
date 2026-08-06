@@ -4,10 +4,11 @@ icon: globe-pointer
 
 # Website Assets
 
-* Please email 1 ZIP file to [daniel@infinityenm.com](mailto:daniel@infinityenm.com) with the following files.
+* Please upload all the files to our shared drive. There will be a folder for that film you're working on  on our shared drive.
 * Please double check size + format (all JPEG) + max size.
 * Tip: You can use Save for web lower profile (Photoshop) to downsize, or [https://tinyjpg.com/](https://tinyjpg.com/)
 * Tip: To remove / extend background, it's best to use generative fill feature [https://www.adobe.com/au/products/photoshop/generative-fill.html](https://www.adobe.com/au/products/photoshop/generative-fill.html)
+* Any questions, please each out to [binh@infinityenm.com](mailto:binh@infinityenm.com)
 
 <details>
 
@@ -21,11 +22,7 @@ icon: globe-pointer
 
 **Placement**
 
-<img src="../.gitbook/assets/image (4) (1) (1).png" alt="" data-size="original">
-
-<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
-
-
+<img src="../.gitbook/assets/image (4) (1) (1).png" alt="" data-size="original"> <img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
 
